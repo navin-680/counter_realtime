@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632126129529",
+    "firebase_url": "https://counter-nav-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "counter-nav",
+    "storage_bucket": "counter-nav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632126129529:android:f3329fea963dbcb3959ba8",
+        "android_client_info": {
+          "package_name": "com.example.counter_real"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632126129529-ktnkqv8jr49p0bs8jfulllcjtrm3t9rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCSGsUGD0E4Ujpe2RUMjv1npoBpeOi5-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632126129529-ktnkqv8jr49p0bs8jfulllcjtrm3t9rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
